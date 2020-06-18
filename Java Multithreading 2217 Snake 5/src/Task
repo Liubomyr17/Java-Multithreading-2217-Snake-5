@@ -1,0 +1,4 @@
+
+Snake 5
+Now let's finish the enum SnakeDirection so that it contains possible directions for the snake
+Add 4 values UP, DOWN, LEFT, RIGHT.

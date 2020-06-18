@@ -1,0 +1,6 @@
+
+Snake 4
+
+The x and y coordinates were already created in the Mouse class, but how do I access them?
+Create the correct getter for these fields and a constructor with two parameters of type int (x and y, respectively).
+
